@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Stockscanner.Properties
+namespace StockScanner.Properties
 {
 
 
